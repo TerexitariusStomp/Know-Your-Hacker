@@ -2,55 +2,49 @@
   <div class="frame1-container">
     <div class="frame1-frame1">
       <div class="frame1-group1">
-        <img
-          src="/external/vector1289-z5c.svg"
-          alt="Vector1289"
-          class="frame1-vector"
-        />
-        <span class="frame1-text"><span>Back</span></span>
-        <span class="frame1-text02"><span>Allow Attendee</span></span>
+        <span class="frame1-text"><span>Allow Attendee</span></span>
         <img
           src="/external/aaveeth1290-m2duh-200h.png"
           alt="aaveeth1290"
           class="frame1-aaveeth"
         />
-        <span class="frame1-text04"><span>StarkenFi</span></span>
-        <span class="frame1-text06"><span>by</span></span>
-        <span class="frame1-text08"><span>0x1664...36d9</span></span>
+        <span class="frame1-text02"><span>StarkenFi</span></span>
+        <span class="frame1-text04"><span>by</span></span>
+        <span class="frame1-text06"><span>0x1664...36d9</span></span>
         <img
           src="/external/vector1292-svem.svg"
           alt="Vector1292"
-          class="frame1-vector1"
+          class="frame1-vector"
         />
-        <span class="frame1-text10"><span>Share</span></span>
+        <span class="frame1-text08"><span>Share</span></span>
         <img
           src="/external/vector1292-l50b.svg"
           alt="Vector1292"
-          class="frame1-vector2"
+          class="frame1-vector1"
         />
         <div class="frame1-span-state button">
-          <span class="frame1-text12"><span>YAE</span></span>
+          <span class="frame1-text10"><span>YAE</span></span>
         </div>
         <div class="frame1-span-state1 button">
-          <span class="frame1-text14"><span>NAY</span></span>
+          <span class="frame1-text12"><span>NAY</span></span>
         </div>
         <div class="frame1-span-state2 button">
-          <span class="frame1-text16"><span>ABSTAIN</span></span>
+          <span class="frame1-text14"><span>ABSTAIN</span></span>
         </div>
-        <span class="frame1-text18"><span>Summary</span></span>
-        <span class="frame1-text20">
+        <span class="frame1-text16"><span>Summary</span></span>
+        <span class="frame1-text18">
           <span>
             This publication proposes allowing attendee to attend the event.
           </span>
         </span>
-        <span class="frame1-text22"><span>Discussion</span></span>
+        <span class="frame1-text20"><span>Discussion</span></span>
         <img
           src="/external/e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png1294-ng1-200h.png"
           alt="e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png1294"
           class="frame1-e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png"
         />
-        <span class="frame1-text24"><span>Add StarkenGov</span></span>
-        <span class="frame1-text26">
+        <span class="frame1-text22"><span>Add StarkenGov</span></span>
+        <span class="frame1-text24">
           <span>This publication proposes adding StarkGov....</span>
         </span>
         <img
@@ -58,74 +52,74 @@
           alt="divabsolute1293"
           class="frame1-divabsolute"
         />
-        <span class="frame1-text28"><span>Show more</span></span>
-        <span class="frame1-text30"><span>Votes</span></span>
-        <span class="frame1-text32">7</span>
+        <span class="frame1-text26"><span>Show more</span></span>
+        <span class="frame1-text28"><span>Votes</span></span>
+        <span class="frame1-text30">7</span>
         <img
           src="/external/vector1296-2q9n.svg"
           alt="Vector1296"
-          class="frame1-vector3"
+          class="frame1-vector2"
         />
         <img
           src="/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41296-riaf-200h.png"
           alt="eth0x329c54289Ff5D6B7b7daE13592C6B1EDA1543eD41296"
           class="frame1-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d4"
         />
-        <span class="frame1-text33"><span>Starken</span></span>
-        <span class="frame1-text35"><span>Core</span></span>
+        <span class="frame1-text31"><span>Starken</span></span>
+        <span class="frame1-text33"><span>Core</span></span>
         <img
           src="/external/eth0x070341aa5ed571f0fb2c4a5641409b1a46b4961b1298-f3d4-200h.png"
           alt="eth0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b1298"
           class="frame1-eth0x070341a-a-ed571f0fb2c4a5641409b1a46b4961b"
         />
-        <span class="frame1-text37"><span>0x0703...961b</span></span>
-        <span class="frame1-text39"><span>YAE</span></span>
+        <span class="frame1-text35"><span>0x0703...961b</span></span>
+        <span class="frame1-text37"><span>YAE</span></span>
         <img
           src="/external/eth0xb83b3e9c8e3393889afb272d354a7a3bd1fbcf5c1299-job-200h.png"
           alt="eth0xB83b3e9C8E3393889Afb272D354A7a3Bd1Fbcf5C1299"
           class="frame1-eth0x-b83b3e9c8e339388-afb272d354a7a-bd-fbcf5c"
         />
-        <span class="frame1-text41"><span>0x87654…</span></span>
-        <span class="frame1-text43"><span>YAE</span></span>
+        <span class="frame1-text39"><span>0x87654…</span></span>
+        <span class="frame1-text41"><span>YAE</span></span>
         <img
           src="/external/eth0xb933aee47c438f22de0747d57fc239fe37878dd11301-asu5-200h.png"
           alt="eth0xB933AEe47C438f22DE0747D57fc239FE37878Dd11301"
           class="frame1-eth0x-b933-ee47c438f22de0747d57fc239fe3787-dd1"
         />
-        <span class="frame1-text45"><span>0x872120…</span></span>
-        <span class="frame1-text47"><span>NAY</span></span>
+        <span class="frame1-text43"><span>0x872120…</span></span>
+        <span class="frame1-text45"><span>NAY</span></span>
         <img
           src="/external/eth0xe4594a66d9507ffc0d4335cc240bd61c1173e6661302-p1rq-200h.png"
           alt="eth0xE4594A66d9507fFc0d4335CC240BD61C1173E6661302"
           class="frame1-eth0x-e4594a66d9507f-fc0d4335cc240bd61c1173e666"
         />
-        <span class="frame1-text49"><span>0x74321…</span></span>
-        <span class="frame1-text51"><span>YAE</span></span>
+        <span class="frame1-text47"><span>0x74321…</span></span>
+        <span class="frame1-text49"><span>YAE</span></span>
         <img
           src="/external/eth0xea172676e4105e92cc52dbf45fd93b274ec966761304-pzxb-200h.png"
           alt="eth0xea172676E4105e92Cc52DBf45fD93b274eC966761304"
           class="frame1-eth0xea172676e4105e9-cc52-bf45f-d93b274e-c96676"
         />
-        <span class="frame1-text53"><span>0x04567</span></span>
-        <span class="frame1-text55"><span>YAE</span></span>
-        <span class="frame1-text57"><span>See more</span></span>
-        <span class="frame1-text59"><span>Information</span></span>
-        <span class="frame1-text61"><span>IPFS</span></span>
-        <span class="frame1-text63">#bafkrei</span>
+        <span class="frame1-text51"><span>0x04567</span></span>
+        <span class="frame1-text53"><span>YAE</span></span>
+        <span class="frame1-text55"><span>See more</span></span>
+        <span class="frame1-text57"><span>Information</span></span>
+        <span class="frame1-text59"><span>IPFS</span></span>
+        <span class="frame1-text61">#bafkrei</span>
         <img
           src="/external/vector1308-g1ya.svg"
           alt="Vector1308"
-          class="frame1-vector4"
+          class="frame1-vector3"
         />
-        <span class="frame1-text64"><span>Voting system</span></span>
-        <span class="frame1-text66"><span>Single choice voting</span></span>
-        <span class="frame1-text68"><span>Start date</span></span>
-        <span class="frame1-text70"><span>Aug 8, 2023, 7:14 PM</span></span>
-        <span class="frame1-text72"><span>End date</span></span>
-        <span class="frame1-text74"><span>Aug 14, 2023, 7:14 PM</span></span>
-        <span class="frame1-text76"><span>Results</span></span>
-        <span class="frame1-text78"><span>YAE</span></span>
-        <span class="frame1-text80"><span>99.99%</span></span>
+        <span class="frame1-text62"><span>Voting system</span></span>
+        <span class="frame1-text64"><span>Single choice voting</span></span>
+        <span class="frame1-text66"><span>Start date</span></span>
+        <span class="frame1-text68"><span>Aug 8, 2023, 7:14 PM</span></span>
+        <span class="frame1-text70"><span>End date</span></span>
+        <span class="frame1-text72"><span>Aug 14, 2023, 7:14 PM</span></span>
+        <span class="frame1-text74"><span>Results</span></span>
+        <span class="frame1-text76"><span>YAE</span></span>
+        <span class="frame1-text78"><span>99.99%</span></span>
         <img
           src="/external/divz101311-a3vs-200h.png"
           alt="divz101311"
@@ -141,8 +135,8 @@
           alt="divz101311"
           class="frame1-divz102"
         />
-        <span class="frame1-text82"><span>NAY</span></span>
-        <span class="frame1-text84"><span>0.01%</span></span>
+        <span class="frame1-text80"><span>NAY</span></span>
+        <span class="frame1-text82"><span>0.01%</span></span>
         <img
           src="/external/divz51312-fz8g-200h.png"
           alt="divz51312"
@@ -153,26 +147,26 @@
           alt="divz51312"
           class="frame1-divz51"
         />
-        <span class="frame1-text86"><span>ABSTAIN</span></span>
-        <span class="frame1-text88"><span>0%</span></span>
-        <span class="frame1-text90"><span>Know Your Hacker</span></span>
+        <span class="frame1-text84"><span>ABSTAIN</span></span>
+        <span class="frame1-text86"><span>0%</span></span>
+        <span class="frame1-text88"><span>Know Your Hacker</span></span>
         <img
           src="/external/aaveeth1318-byls-200h.png"
           alt="aaveeth1318"
           class="frame1-aaveeth1"
         />
-        <span class="frame1-text92"><span>Connect wallet</span></span>
+        <span class="frame1-text90"><span>Connect wallet</span></span>
         <img
           src="/external/vector1315-n4c.svg"
           alt="Vector1315"
-          class="frame1-vector5"
+          class="frame1-vector4"
         />
         <img
           src="/external/rectangle12507-e1cl-200h.png"
           alt="Rectangle12507"
           class="frame1-rectangle1"
         />
-        <span class="frame1-text94"><span>Closed</span></span>
+        <span class="frame1-text92"><span>Closed</span></span>
       </div>
     </div>
   </div>
@@ -218,29 +212,7 @@ export default {
   align-items: flex-start;
   flex-shrink: 1;
 }
-.frame1-vector {
-  top: 7.5020751953125px;
-  left: 5.89752197265625px;
-  width: 11px;
-  height: 9px;
-  position: absolute;
-}
 .frame1-text {
-  left: 26.09002685546875px;
-  color: rgba(139, 148, 158, 1);
-  height: auto;
-  z-index: 1;
-  position: absolute;
-  font-size: 17px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Segoe UI;
-  font-weight: 400;
-  line-height: 24px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.frame1-text02 {
   top: 45.79998779296875px;
   left: 0.5px;
   color: rgba(255, 255, 255, 1);
@@ -265,7 +237,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text04 {
+.frame1-text02 {
   top: 105.376953125px;
   left: 110.2940673828125px;
   color: rgba(139, 148, 158, 1);
@@ -281,7 +253,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text06 {
+.frame1-text04 {
   top: 105.376953125px;
   left: 180.2940673828125px;
   color: rgba(139, 148, 158, 1);
@@ -297,7 +269,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text08 {
+.frame1-text06 {
   top: 106.376953125px;
   left: 206.2940673828125px;
   color: rgba(255, 255, 255, 1);
@@ -313,7 +285,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-vector1 {
+.frame1-vector {
   top: 110.1802978515625px;
   left: 492.8624267578125px;
   width: 14px;
@@ -321,7 +293,7 @@ export default {
   z-index: 7;
   position: absolute;
 }
-.frame1-text10 {
+.frame1-text08 {
   top: 105.376953125px;
   left: 514.8541259765625px;
   color: rgba(139, 148, 158, 1);
@@ -337,7 +309,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-vector2 {
+.frame1-vector1 {
   top: 116.376953125px;
   left: 617.1240844726562px;
   width: 16px;
@@ -359,7 +331,7 @@ export default {
   border-radius: 14px;
   background-color: rgba(112, 255, 126, 1);
 }
-.frame1-text12 {
+.frame1-text10 {
   color: rgba(30, 30, 30, 1);
   height: auto;
   font-size: 14px;
@@ -385,7 +357,7 @@ export default {
   border-radius: 14px;
   background-color: rgba(255, 116, 116, 1);
 }
-.frame1-text14 {
+.frame1-text12 {
   color: rgba(30, 30, 30, 1);
   height: auto;
   font-size: 14px;
@@ -411,7 +383,7 @@ export default {
   border-radius: 14px;
   background-color: rgba(255, 206, 134, 1);
 }
-.frame1-text16 {
+.frame1-text14 {
   color: rgba(30, 30, 30, 1);
   height: auto;
   font-size: 14px;
@@ -423,7 +395,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text18 {
+.frame1-text16 {
   top: 245.376953125px;
   left: 1.2940673828125px;
   color: rgba(255, 255, 255, 1);
@@ -439,7 +411,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text20 {
+.frame1-text18 {
   top: 318px;
   left: 14px;
   color: rgba(139, 148, 158, 1);
@@ -455,7 +427,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text22 {
+.frame1-text20 {
   top: 448.376953125px;
   left: 0.2940673828125px;
   color: rgba(255, 255, 255, 1);
@@ -480,7 +452,7 @@ export default {
   position: absolute;
   border-radius: 4px;
 }
-.frame1-text24 {
+.frame1-text22 {
   top: 505.376953125px;
   left: 81.2940673828125px;
   color: rgba(255, 255, 255, 1);
@@ -496,7 +468,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text26 {
+.frame1-text24 {
   top: 529.376953125px;
   left: 81.2940673828125px;
   color: rgba(139, 148, 158, 1);
@@ -520,7 +492,7 @@ export default {
   z-index: 20;
   position: absolute;
 }
-.frame1-text28 {
+.frame1-text26 {
   top: 402.376953125px;
   left: 258.0140380859375px;
   color: rgba(255, 255, 255, 1);
@@ -536,7 +508,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text30 {
+.frame1-text28 {
   top: 581px;
   left: 25px;
   color: rgba(255, 255, 255, 1);
@@ -552,7 +524,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text32 {
+.frame1-text30 {
   top: 588px;
   left: 79px;
   color: rgba(255, 255, 255, 1);
@@ -569,7 +541,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-vector3 {
+.frame1-vector2 {
   top: 587px;
   left: 559.6400146484375px;
   width: 16px;
@@ -586,7 +558,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text33 {
+.frame1-text31 {
   top: 637px;
   left: 41px;
   color: rgba(255, 255, 255, 1);
@@ -602,7 +574,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text35 {
+.frame1-text33 {
   top: 637px;
   left: 112.780029296875px;
   color: rgba(139, 148, 158, 1);
@@ -627,7 +599,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text37 {
+.frame1-text35 {
   top: 695px;
   left: 41px;
   color: rgba(255, 255, 255, 1);
@@ -643,7 +615,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text39 {
+.frame1-text37 {
   top: 699px;
   left: 562.5599975585938px;
   color: rgba(255, 255, 255, 1);
@@ -668,7 +640,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text41 {
+.frame1-text39 {
   top: 753px;
   left: 41px;
   color: rgba(255, 255, 255, 1);
@@ -684,7 +656,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text43 {
+.frame1-text41 {
   top: 753px;
   left: 562.5599975585938px;
   color: rgba(255, 255, 255, 1);
@@ -709,7 +681,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text45 {
+.frame1-text43 {
   top: 811px;
   left: 41px;
   color: rgba(255, 255, 255, 1);
@@ -725,7 +697,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text47 {
+.frame1-text45 {
   top: 813px;
   left: 560.5599975585938px;
   color: rgba(255, 255, 255, 1);
@@ -750,7 +722,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text49 {
+.frame1-text47 {
   top: 869px;
   left: 41px;
   color: rgba(255, 255, 255, 1);
@@ -766,7 +738,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text51 {
+.frame1-text49 {
   top: 864px;
   left: 562.5599975585938px;
   color: rgba(255, 255, 255, 1);
@@ -791,7 +763,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text53 {
+.frame1-text51 {
   top: 927px;
   left: 41px;
   color: rgba(255, 255, 255, 1);
@@ -807,7 +779,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text55 {
+.frame1-text53 {
   top: 928px;
   left: 562.5599975585938px;
   color: rgba(255, 255, 255, 1);
@@ -823,7 +795,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text57 {
+.frame1-text55 {
   top: 987px;
   left: 274.3299560546875px;
   color: rgba(255, 255, 255, 1);
@@ -839,7 +811,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text59 {
+.frame1-text57 {
   top: 17px;
   left: 650px;
   color: rgba(255, 255, 255, 1);
@@ -855,7 +827,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text61 {
+.frame1-text59 {
   top: 82px;
   left: 650px;
   color: rgba(139, 148, 158, 1);
@@ -871,7 +843,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text63 {
+.frame1-text61 {
   top: 82px;
   left: 839.6400146484375px;
   color: rgba(255, 255, 255, 1);
@@ -887,7 +859,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-vector4 {
+.frame1-vector3 {
   top: 88.39996337890625px;
   left: 907.3300170898438px;
   width: 11px;
@@ -895,7 +867,7 @@ export default {
   z-index: 47;
   position: absolute;
 }
-.frame1-text64 {
+.frame1-text62 {
   top: 110px;
   left: 650px;
   color: rgba(139, 148, 158, 1);
@@ -911,7 +883,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text66 {
+.frame1-text64 {
   top: 110px;
   left: 778.1099853515625px;
   color: rgba(255, 255, 255, 1);
@@ -927,7 +899,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text68 {
+.frame1-text66 {
   top: 138px;
   left: 650px;
   color: rgba(139, 148, 158, 1);
@@ -943,7 +915,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text70 {
+.frame1-text68 {
   top: 138px;
   left: 775.8399658203125px;
   color: rgba(255, 255, 255, 1);
@@ -959,7 +931,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text72 {
+.frame1-text70 {
   top: 166px;
   left: 650px;
   color: rgba(139, 148, 158, 1);
@@ -975,7 +947,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text74 {
+.frame1-text72 {
   top: 166px;
   left: 772.760009765625px;
   color: rgba(255, 255, 255, 1);
@@ -991,7 +963,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text76 {
+.frame1-text74 {
   top: 256px;
   left: 650px;
   color: rgba(255, 255, 255, 1);
@@ -1007,7 +979,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text78 {
+.frame1-text76 {
   top: 321px;
   left: 650px;
   color: rgba(255, 255, 255, 1);
@@ -1023,7 +995,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text80 {
+.frame1-text78 {
   top: 321px;
   left: 870.530029296875px;
   color: rgba(255, 255, 255, 1);
@@ -1066,7 +1038,7 @@ export default {
   z-index: 60;
   position: absolute;
 }
-.frame1-text82 {
+.frame1-text80 {
   top: 373px;
   left: 650px;
   color: rgba(255, 255, 255, 1);
@@ -1082,7 +1054,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text84 {
+.frame1-text82 {
   top: 373px;
   left: 881.3299560546875px;
   color: rgba(255, 255, 255, 1);
@@ -1114,7 +1086,7 @@ export default {
   z-index: 63;
   position: absolute;
 }
-.frame1-text86 {
+.frame1-text84 {
   top: 425px;
   left: 650px;
   color: rgba(255, 255, 255, 1);
@@ -1130,7 +1102,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text88 {
+.frame1-text86 {
   top: 425px;
   left: 899.3299560546875px;
   color: rgba(255, 255, 255, 1);
@@ -1146,8 +1118,9 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-text90 {
-  left: 1px;
+.frame1-text88 {
+  top: 6px;
+  left: 2px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   z-index: 68;
@@ -1170,7 +1143,7 @@ export default {
   position: absolute;
   border-radius: 9999px;
 }
-.frame1-text92 {
+.frame1-text90 {
   top: 8.5px;
   left: 434.719970703125px;
   color: rgba(255, 255, 255, 1);
@@ -1186,7 +1159,7 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.frame1-vector5 {
+.frame1-vector4 {
   top: 19.595458984375px;
   left: 586.79833984375px;
   width: 14px;
@@ -1202,7 +1175,7 @@ export default {
   z-index: 72;
   position: absolute;
 }
-.frame1-text94 {
+.frame1-text92 {
   top: 103px;
   left: 11px;
   color: rgba(255, 255, 255, 1);
@@ -1228,25 +1201,25 @@ export default {
     bottom: 19px;
     height: 1484px;
   }
-  .frame1-text18 {
+  .frame1-text16 {
     top: 272px;
     left: 0px;
   }
-  .frame1-text20 {
+  .frame1-text18 {
     top: 335px;
     left: 11px;
   }
-  .frame1-text59 {
+  .frame1-text57 {
     top: 1030px;
     left: 23px;
     bottom: 148px;
   }
-  .frame1-text61 {
+  .frame1-text59 {
     top: 1074px;
     left: 20px;
     bottom: 108px;
   }
-  .frame1-text63 {
+  .frame1-text61 {
     top: 1078px;
     left: 149px;
     color: rgb(255, 255, 255);
@@ -1257,49 +1230,49 @@ export default {
     line-height: 24px;
     text-decoration: none;
   }
-  .frame1-vector4 {
+  .frame1-vector3 {
     top: 1080px;
     left: 238px;
   }
-  .frame1-text64 {
+  .frame1-text62 {
     top: 1102px;
     left: 20px;
     bottom: 80px;
   }
-  .frame1-text66 {
+  .frame1-text64 {
     top: 1102px;
     left: 148px;
     bottom: 80px;
   }
-  .frame1-text68 {
+  .frame1-text66 {
     top: 1130px;
     left: 20px;
     bottom: 52px;
   }
-  .frame1-text70 {
+  .frame1-text68 {
     top: 1130px;
     left: 146px;
     bottom: 52px;
   }
-  .frame1-text72 {
+  .frame1-text70 {
     top: 1158px;
     left: 20px;
     bottom: 24px;
   }
-  .frame1-text74 {
+  .frame1-text72 {
     top: 1158px;
     left: 143px;
     bottom: 24px;
   }
-  .frame1-text76 {
+  .frame1-text74 {
     top: 138px;
     left: -9px;
   }
-  .frame1-text78 {
+  .frame1-text76 {
     top: 174px;
     left: -3px;
   }
-  .frame1-text80 {
+  .frame1-text78 {
     top: 175px;
     left: 83px;
   }
@@ -1308,11 +1281,11 @@ export default {
     left: -3px;
     width: 120px;
   }
-  .frame1-text82 {
+  .frame1-text80 {
     top: 215px;
     left: -5px;
   }
-  .frame1-text84 {
+  .frame1-text82 {
     top: 213px;
     left: 82px;
   }
@@ -1326,21 +1299,21 @@ export default {
     left: -4px;
     width: 120px;
   }
-  .frame1-text86 {
+  .frame1-text84 {
     top: 252px;
     left: -6px;
   }
-  .frame1-text88 {
+  .frame1-text86 {
     top: 252px;
     left: 95px;
   }
 }
 @media(max-width: 767px) {
-  .frame1-vector1 {
+  .frame1-vector {
     top: 114px;
     left: 341px;
   }
-  .frame1-text10 {
+  .frame1-text08 {
     top: 109px;
     left: 363px;
   }
@@ -1348,31 +1321,31 @@ export default {
     top: 236px;
     left: 319px;
   }
-  .frame1-vector3 {
+  .frame1-vector2 {
     top: 593px;
     left: 387px;
   }
-  .frame1-text39 {
+  .frame1-text37 {
     top: 698px;
     left: 380px;
   }
-  .frame1-text43 {
+  .frame1-text41 {
     top: 755px;
     left: 381px;
   }
-  .frame1-text47 {
+  .frame1-text45 {
     top: 815px;
     left: 377px;
   }
-  .frame1-text51 {
+  .frame1-text49 {
     top: 868px;
     left: 380px;
   }
-  .frame1-text55 {
+  .frame1-text53 {
     top: 933px;
     left: 380px;
   }
-  .frame1-text92 {
+  .frame1-text90 {
     top: 7px;
     left: 296px;
   }
