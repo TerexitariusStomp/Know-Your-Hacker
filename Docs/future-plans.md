@@ -1,2 +1,3 @@
 # Future Plans
 
+We'd love to expand the capability of the NFT ticketing system through furthering Push Notifications within the programming. With sustainability in mind and gathering data such as where the attendee is coming from and where the event is at. We'd be able to use this data to offset travel with such tokens as on chain carbon credits embedded directly into the NFT. There's also the ability for the NFT in the future to be transferrable. Enabling transferability for some events can open up secondary markets and benefit organizers from these secondary sales. If secondary sales are enabled we'd also like to include a time stamp after which trading of the NFTs would be disabled. This could be done with Chainlink's CCIP.&#x20;

@@ -1,3 +1,3 @@
 # NFT Ticket Design
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Component Diagram of Ticketing Solution</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/overalldesign.jpg" alt=""><figcaption><p>Component Diagram of NFT Ticketing</p></figcaption></figure>
