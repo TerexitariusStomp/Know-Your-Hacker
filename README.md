@@ -30,7 +30,8 @@ With NFTs we enable efficient communication with event attendees, ticket control
 ```
 .
 ├── Docs
-├── Frontend
+├── Fronto
+├── Contractos
 ├── LICENSE
 ├── Playground
 └── README.md
@@ -38,5 +39,6 @@ With NFTs we enable efficient communication with event attendees, ticket control
 ```
 
 The folder `Docs` holds a small gitbook.  
-The folder `Frontend` holds the Frontend  
+The folder `Fronto` holds the Frontend  
 The folder `Playground` is our Playground to Discover
+The folder `Contractos` holds the contract
