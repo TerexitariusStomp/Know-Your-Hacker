@@ -46,13 +46,13 @@ USER FLOWs
 Story:
 We have Roman. Roman has a geourgeus Background in sports event.
 Dortmund, Bocchum and Bayern Munich are bullish to bring their Tickets to the next level.
-Lets start simple and rethink Tiketing on Eth Munich.
+Lets start simple and rethink Ticketing on Eth Munich.
 
 Problem:
 
-- Tickets need to be linked to ID to prevent anonymous transfers
-- Winners need to go through KYC process for payout
-- People forget what happened at EthMunich 2023
+- Tickets need to be linked to ID.
+- Winner recieve money manually.
+- Eth Munich contact list.
 
 Solution:
 
