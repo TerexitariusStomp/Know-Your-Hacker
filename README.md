@@ -6,19 +6,13 @@
   <p align="center">
     An NFT Plugin Empowering Event Ticketing
     <br />
-    <a href="https://www.figma.com/file/V1W0wKDqXxGYrEH5TFfzJL/SwipePM?type=design&node-id=0%3A1&mode=design&t=cq5XPPpWLxi543Po-1" name="Figma">Figma</a>
+    <a href="https://www.figma.com/file/MQhp8vPfJgqlduV6kTsZ3c/VotingApp?type=design&node-id=0%3A1&mode=design&t=CFPUzmLsM3lExVFQ-1" name="Figma">Figma</a>
     ·
-    <a href="https://youtu.be/pBcYVFuj9M0">Youtube</a>
+    <a href="https://www.youtube.com/watch?v=AZu67U6cErY">Youtube</a>
     ·
     <a href="https://github.com/TerexitariusStomp/Know-Your-Hacker">Code</a>
   </p>
 </div>
-
-### Todo
-
-- [ ] Insert Figma Link
-- [ ] Insert YT Link
-- [ ] Add Thingy
 
 ### Description
 
@@ -32,6 +26,9 @@ With NFTs we enable efficient communication with event attendees, ticket control
 .
 ├── Docs
 ├── Fronto
+|    ├── KYH_Startknet_Feature
+|    ├── KYH_Push_Feature
+|    └── KYH_Molecule_Feature
 ├── Contractos
 ├── LICENSE
 ├── Playground
@@ -40,6 +37,9 @@ With NFTs we enable efficient communication with event attendees, ticket control
 ```
 
 The folder `Docs` holds a small gitbook.  
-The folder `Fronto` holds the Frontend  
-The folder `Playground` is our Playground to Discover
-The folder `Contractos` holds the contract
+The folder `Fronto` holds different kinds of Frontends and more for KYH.
+The folder `Fronto/KYH_Startknet_Feature` holds the Frontend  for the KYH Starknet Feature.
+The folder `Fronto/KYH_Push_Feature` holds the Frontend for the KYH Push Feature. 
+The folder `Fronto/KYH_Molecule_Feature` holds the Frontend for the KYH Molecule Feature. 
+The folder `Playground` is our Playground to Discover.
+The folder `Contractos` holds the contract.
