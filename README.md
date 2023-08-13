@@ -6,19 +6,13 @@
   <p align="center">
     An NFT Plugin Empowering Event Ticketing
     <br />
-    <a href="https://www.figma.com/file/V1W0wKDqXxGYrEH5TFfzJL/SwipePM?type=design&node-id=0%3A1&mode=design&t=cq5XPPpWLxi543Po-1" name="Figma">Figma</a>
+    <a href="https://www.figma.com/file/MQhp8vPfJgqlduV6kTsZ3c/VotingApp?type=design&node-id=0%3A1&mode=design&t=CFPUzmLsM3lExVFQ-1" name="Figma">Figma</a>
     ·
-    <a href="https://youtu.be/pBcYVFuj9M0">Youtube</a>
+    <a href="https://www.youtube.com/watch?v=AZu67U6cErY">Youtube</a>
     ·
     <a href="https://github.com/TerexitariusStomp/Know-Your-Hacker">Code</a>
   </p>
 </div>
-
-### Todo
-
-- [ ] Insert Figma Link
-- [ ] Insert YT Link
-- [ ] Add Thingy
 
 ### Description
 
