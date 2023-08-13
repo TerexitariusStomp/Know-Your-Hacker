@@ -18,6 +18,7 @@
 
 - [ ] Insert Figma Link
 - [ ] Insert YT Link
+- [ ] Add Thingy
 
 ### Description
 
