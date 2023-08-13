@@ -1,93 +1,15 @@
 <script setup lang="ts">
 import Header from "./components/Header.vue";
+import Title from "./components/Title.vue";
+import Results from "./components/Results.vue";
 </script>
 <template>
   <div class="site-container">
     <div class="site-site">
       <div class="site-container1">
         <Header></Header>
-        <!------------->
-        <!--Section A-->
-        <!----Title---->
-        <div class="site-section-a">
-          <div class="site-title">
-            <div class="site-tel">
-              <span class="site-text04"><span>Allow Attendee</span></span>
-            </div>
-            <div class="site-bel">
-              <div class="site-lb">
-                <div class="site-le2">
-                  <span class="site-text06">OPEN</span>
-                </div>
-                <div class="site-le3">
-                  <img src="public/external/aaveeth1290-adeu-200h.png" alt="aaveeth1290" class="site-aaveeth1" />
-                </div>
-                <div class="site-le4">
-                  <span class="site-text07"><span>StarkenFi</span></span>
-                </div>
-              </div>
-              <div class="site-le6">
-                <span class="site-text09"><span>0x1664...36d9</span></span>
-              </div>
-              <div class="site-rb">
-                <img src="public/external/re31151-iwuo.svg" alt="RE31151" class="site-re3" />
-                <div class="site-re21">
-                  <span class="site-text11"><span>Share</span></span>
-                </div>
-                <img src="public/external/re1151-hkik.svg" alt="RE1151" class="site-re" />
-              </div>
-            </div>
-          </div>
-        </div>
-        <!------------->
-        <!--Section B-->
-        <!--Results---->
-        <div class="site-section-b">
-          <div class="site-results">
-            <div class="site-tle">
-              <span class="site-text13"><span>Results</span></span>
-            </div>
-            <div class="site-tb">
-              <div class="site-le01">
-                <span class="site-text15"><span>YAE</span></span>
-              </div>
-              <div class="site-re01">
-                <span class="site-text17"><span>99.99%</span></span>
-              </div>
-            </div>
-            <div class="site-tbar">
-              <div class="site-re02">
-                <img src="public/external/divz101311-ozx6h-200h.png" alt="divz101311" class="site-divz10" />
-              </div>
-            </div>
-            <div class="site-mb">
-              <div class="site-le02">
-                <span class="site-text19"><span>NAY</span></span>
-              </div>
-              <div class="site-re03">
-                <span class="site-text21"><span>0.01%</span></span>
-              </div>
-            </div>
-            <div class="site-mbar">
-              <div class="site-le03">
-                <img src="public/external/divz51312-07ip-200h.png" alt="divz51312" class="site-divz5" />
-              </div>
-            </div>
-            <div class="site-bb">
-              <div class="site-re1">
-                <span class="site-text23"><span>ABSTAIN</span></span>
-              </div>
-              <div class="site-re04">
-                <span class="site-text25"><span>0%</span></span>
-              </div>
-            </div>
-            <div class="site--bar">
-              <div class="site-bre">
-                <img src="public/external/divz55507-yw9-200h.png" alt="divz55507" class="site-divz51" />
-              </div>
-            </div>
-          </div>
-        </div>
+        <Title></Title>
+        <Results></Results>
         <!------------->
         <!--Section C-->
         <!----Votes---->
