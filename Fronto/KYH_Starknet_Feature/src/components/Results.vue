@@ -1,3 +1,6 @@
+<script setup lang="ts">
+import { store } from "../store/store";
+</script>
 <template>
   <!------------->
   <!--Section B-->
@@ -12,7 +15,9 @@
           <span class="site-text15"><span>YAE</span></span>
         </div>
         <div class="site-re01">
-          <span class="site-text17"><span>99.99%</span></span>
+          <span class="site-text17"
+            ><span>{{ store.yae }}</span></span
+          >
         </div>
       </div>
       <div class="site-tbar">
@@ -29,7 +34,9 @@
           <span class="site-text19"><span>NAY</span></span>
         </div>
         <div class="site-re03">
-          <span class="site-text21"><span>0.01%</span></span>
+          <span class="site-text21"
+            ><span>{{ store.nay }}</span></span
+          >
         </div>
       </div>
       <div class="site-mbar">
@@ -46,7 +53,9 @@
           <span class="site-text23"><span>ABSTAIN</span></span>
         </div>
         <div class="site-re04">
-          <span class="site-text25"><span>0%</span></span>
+          <span class="site-text25"
+            ><span>{{ store.abstain }}</span></span
+          >
         </div>
       </div>
       <div class="site--bar">
