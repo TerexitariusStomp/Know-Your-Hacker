@@ -32,6 +32,9 @@ With NFTs we enable efficient communication with event attendees, ticket control
 .
 ├── Docs
 ├── Fronto
+|    ├── KYH_Startknet_Feature
+|    ├── KYH_Push_Feature
+|    └── KYH_Molecule_Feature
 ├── Contractos
 ├── LICENSE
 ├── Playground
@@ -40,6 +43,9 @@ With NFTs we enable efficient communication with event attendees, ticket control
 ```
 
 The folder `Docs` holds a small gitbook.  
-The folder `Fronto` holds the Frontend  
-The folder `Playground` is our Playground to Discover
-The folder `Contractos` holds the contract
+The folder `Fronto` holds different kinds of Frontends and more for KYH.
+The folder `Fronto/KYH_Startknet_Feature` holds the Frontend  for the KYH Starknet Feature.
+The folder `Fronto/KYH_Push_Feature` holds the Frontend for the KYH Push Feature. 
+The folder `Fronto/KYH_Molecule_Feature` holds the Frontend for the KYH Molecule Feature. 
+The folder `Playground` is our Playground to Discover.
+The folder `Contractos` holds the contract.
