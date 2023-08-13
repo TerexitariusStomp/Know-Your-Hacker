@@ -17,7 +17,11 @@
       </div>
       <div class="site-tbar">
         <div class="site-re02">
-          <img src="public/external/divz101311-ozx6h-200h.png" alt="divz101311" class="site-divz10" />
+          <img
+            src="public/external/divz101311-ozx6h-200h.png"
+            alt="divz101311"
+            class="site-divz10"
+          />
         </div>
       </div>
       <div class="site-mb">
@@ -30,7 +34,11 @@
       </div>
       <div class="site-mbar">
         <div class="site-le03">
-          <img src="public/external/divz51312-07ip-200h.png" alt="divz51312" class="site-divz5" />
+          <img
+            src="public/external/divz51312-07ip-200h.png"
+            alt="divz51312"
+            class="site-divz5"
+          />
         </div>
       </div>
       <div class="site-bb">
@@ -43,7 +51,11 @@
       </div>
       <div class="site--bar">
         <div class="site-bre">
-          <img src="public/external/divz55507-yw9-200h.png" alt="divz55507" class="site-divz51" />
+          <img
+            src="public/external/divz55507-yw9-200h.png"
+            alt="divz55507"
+            class="site-divz51"
+          />
         </div>
       </div>
     </div>

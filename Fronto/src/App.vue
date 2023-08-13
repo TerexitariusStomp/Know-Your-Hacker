@@ -2,6 +2,8 @@
 import Header from "./components/Header.vue";
 import Title from "./components/Title.vue";
 import Results from "./components/Results.vue";
+import Votes from "./components/Votes.vue";
+import Summary from "./components/Summary.vue";
 </script>
 <template>
   <div class="site-container">
@@ -10,38 +12,8 @@ import Results from "./components/Results.vue";
         <Header></Header>
         <Title></Title>
         <Results></Results>
-        <!------------->
-        <!--Section C-->
-        <!----Votes---->
-        <div class="site-section-c">
-          <div class="site-le04">
-            <span class="site-text27"><span>YAE</span></span>
-          </div>
-          <div class="site-me">
-            <span class="site-text29"><span>NAY</span></span>
-          </div>
-          <div class="site-re05">
-            <span class="site-text31"><span>ABSTAIN</span></span>
-          </div>
-        </div>
-        <!------------->
-        <!--Section D-->
-        <!--Summary---->
-        <div class="site-section-d">
-          <div class="site-summary">
-            <div class="site-tce2">
-              <span class="site-text33"><span>Summary</span></span>
-            </div>
-            <div class="site-tce">
-              <span class="site-text35">
-                <span>
-                  This publication proposes allowing attendee to attend the
-                  event.
-                </span>
-              </span>
-            </div>
-          </div>
-        </div>
+        <Votes></Votes>
+        <Summary></Summary>
         <!------------->
         <!--Section E-->
         <!--Discussion-->
@@ -52,9 +24,11 @@ import Results from "./components/Results.vue";
             </div>
             <div class="site-lower-block">
               <div class="site-le05">
-                <img src="public/external/e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png1294-3jkg-200h.png"
+                <img
+                  src="public/external/e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png1294-3jkg-200h.png"
                   alt="e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png1294"
-                  class="site-e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png" />
+                  class="site-e1cc8cfb0bce8f6e94171b362800a50df3c487e1232x32png"
+                />
               </div>
               <div class="site-tre">
                 <span class="site-text39"><span>Add StarkenGov</span></span>
@@ -78,14 +52,20 @@ import Results from "./components/Results.vue";
                 <span class="site-text45">7</span>
               </div>
             </div>
-            <img src="public/external/re1151-qyp.svg" alt="RE1151" class="site-re07" />
+            <img
+              src="public/external/re1151-qyp.svg"
+              alt="RE1151"
+              class="site-re07"
+            />
           </div>
           <div class="site-row1">
             <div class="site-row-name">
               <div class="site-le06">
-                <img src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41296-o3gq-200h.png"
+                <img
+                  src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41296-o3gq-200h.png"
                   alt="eth0x329c54289Ff5D6B7b7daE13592C6B1EDA1543eD41296"
-                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d4" />
+                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d4"
+                />
               </div>
               <div class="site-le21">
                 <span class="site-text46"><span>Starken</span></span>
@@ -101,9 +81,11 @@ import Results from "./components/Results.vue";
           <div class="site-row2">
             <div class="site-row-name">
               <div class="site-le07">
-                <img src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-ew1o-200h.png"
+                <img
+                  src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-ew1o-200h.png"
                   alt="eth0x329c54289Ff5D6B7b7daE13592C6B1EDA1543eD41452"
-                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d41" />
+                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d41"
+                />
               </div>
               <div class="site-le22">
                 <span class="site-text52"><span>Larken</span></span>
@@ -119,9 +101,11 @@ import Results from "./components/Results.vue";
           <div class="site-row3">
             <div class="site-row-name">
               <div class="site-le08">
-                <img src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-6qog-200h.png"
+                <img
+                  src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-6qog-200h.png"
                   alt="eth0x329c54289Ff5D6B7b7daE13592C6B1EDA1543eD41452"
-                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d42" />
+                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d42"
+                />
               </div>
               <div class="site-le23">
                 <span class="site-text58"><span>Barken</span></span>
@@ -137,9 +121,11 @@ import Results from "./components/Results.vue";
           <div class="site-row4">
             <div class="site-row-name">
               <div class="site-le09">
-                <img src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-so0e-200h.png"
+                <img
+                  src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-so0e-200h.png"
                   alt="eth0x329c54289Ff5D6B7b7daE13592C6B1EDA1543eD41452"
-                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d43" />
+                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d43"
+                />
               </div>
               <div class="site-le24">
                 <span class="site-text64"><span>Crarken</span></span>
@@ -155,9 +141,11 @@ import Results from "./components/Results.vue";
           <div class="site-row5">
             <div class="site-row-name">
               <div class="site-le10">
-                <img src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-m7z-200h.png"
+                <img
+                  src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-m7z-200h.png"
                   alt="eth0x329c54289Ff5D6B7b7daE13592C6B1EDA1543eD41452"
-                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d44" />
+                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d44"
+                />
               </div>
               <div class="site-le25">
                 <span class="site-text70"><span>Darken</span></span>
@@ -173,9 +161,11 @@ import Results from "./components/Results.vue";
           <div class="site-row6">
             <div class="site-row-name">
               <div class="site-le11">
-                <img src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-vrqh-200h.png"
+                <img
+                  src="public/external/eth0x329c54289ff5d6b7b7dae13592c6b1eda1543ed41452-vrqh-200h.png"
                   alt="eth0x329c54289Ff5D6B7b7daE13592C6B1EDA1543eD41452"
-                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d45" />
+                  class="site-eth0x329c5428-ff5d6b7b7da-e13592c6b1eda1543e-d45"
+                />
               </div>
               <div class="site-le26">
                 <span class="site-text76"><span>Yarken</span></span>
